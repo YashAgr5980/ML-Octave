@@ -1,1 +1,1 @@
-# ML-Octave
+### The repository contains the problems and detailed solutions of several exercises that are based on trivial to advanced Machine Learning Concepts. A detailed explained whenever needed is also provided. The programming exercises are solved using Octave/MATLAB.
